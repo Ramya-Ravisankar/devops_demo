@@ -1,6 +1,6 @@
 # Devops Demo
 
-![My_Docker_Image : ](Images/DOCKER_IMAGE.png)
+![My Docker Image : ](Images/DOCKER_IMAGE.png)
 
 ![My_Docker_Repo : ](Images/DOCKER_REPO.png)
 
